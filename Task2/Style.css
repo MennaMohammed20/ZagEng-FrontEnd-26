@@ -1,0 +1,462 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F5F7FA;
+    padding: 10px 40px;
+    gap: 40;
+}
+
+.logo img {
+    width: 20px;
+}
+
+.logo span {
+    color: #234c61;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.actions {
+    display: flex;
+    gap: 30px;
+}
+
+.actions a {
+    text-decoration: none;
+    color: #234c61;
+}
+
+.right {
+    display: flex;
+    gap: 18px;
+
+}
+
+.button1 {
+    color: #4CAF4F;
+    font-size: 11px;
+    border: none;
+    background-color: transparent;
+}
+
+.button2 {
+    color: aliceblue;
+    background-color: #4CAF4F;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+
+
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F5F7FA;
+    padding-top: 40px;
+}
+
+.intro h1 {
+    color: #4D4D4D;
+    font-size: 70px;
+    margin-bottom: 5px;
+}
+
+.intro span {
+    color: #4CAF4F;
+    margin: 0px;
+}
+
+section #paragraph {
+    color: #717171;
+    font-size: 16px;
+    margin-top: 6px;
+
+}
+
+section #button_register {
+    color: aliceblue;
+    background-color: #4CAF4F;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 15px;
+    font-size: 10px;
+
+}
+
+.imgs {
+    width: 391px;
+    height: 407px;
+}
+
+.Clients {
+    text-align: center;
+
+}
+
+.Clients h1 {
+    color: #4D4D4D;
+    font-size: 36PX;
+    margin-bottom: 5PX;
+    padding-top: 40PX;
+}
+
+.Clients P {
+    color: #717171;
+    font-size: 16PX;
+    margin-top: 0px;
+
+}
+
+.logos {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    gap: 2px;
+
+}
+
+.Manage {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.Manage h1 {
+    color: #4D4D4D;
+    font-size: 36px;
+    margin-bottom: 5px;
+
+}
+
+.Manage p {
+    color: #717171;
+    font-size: 16px;
+    margin-top: 5px;
+
+}
+
+.Frame {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+
+}
+
+.Frame1,
+.Frame2,
+.Frame3 {
+    text-align: center;
+    background-color: white;
+}
+
+.Frame1 h1,
+.Frame2 h1,
+.Frame3 h1 {
+    color: #4D4D4D;
+    font-size: 28px;
+    margin-bottom: 5px;
+}
+
+.Frame1 p,
+.Frame2 p,
+.Frame3 p {
+    color: #717171;
+    font-size: 14px;
+}
+
+.Unlock {
+    display: flex;
+    margin-top: 60PX;
+    justify-content: space-evenly;
+
+
+}
+
+.Unlock img {
+    width: 442px;
+    height: 433px;
+}
+
+.Unlock h1 {
+    color: #4D4D4D;
+    font-size: 36px;
+    width: 600PX;
+}
+
+.Unlock p {
+    color: #717171;
+    font-size: 14px;
+    width: 600PX;
+}
+
+#button-learn {
+    color: aliceblue;
+    background-color: #4CAF4F;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+
+}
+
+.Heading {
+    background-color: #F5F7FA;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+
+}
+
+.section-heading h1 {
+    color: #4D4D4D;
+    font-size: 36px;
+    margin-bottom: 5px;
+}
+
+.section-heading span {
+    color: #4CAF4F;
+}
+
+.section-heading p {
+    color: #18191f;
+    font-size: 16px;
+    margin: 0px;
+}
+
+.counts {
+    display: flex;
+    gap: 100px;
+}
+
+.row1,
+.row2,
+.row3,
+.row4 {
+    display: flex;
+    gap: 20px;
+}
+
+.row1 h3,
+.row2 h3,
+.row3 h3,
+.row4 h3 {
+    color: #4D4D4D;
+    font-size: 28px;
+    margin-bottom: 5px;
+}
+
+.row1 p,
+.row2 p,
+.row3 p,
+.row4 p {
+    color: #717171;
+    font-size: 16px;
+    margin: 0px;
+}
+
+.calender {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 60px;
+    padding-top: 30px;
+}
+
+.calender img {
+    width: 442px;
+    height: 380.58px;
+
+}
+
+.calender h1 {
+    color: #4D4D4D;
+    font-size: 36px;
+    width: 600PX;
+}
+
+.calender p {
+    color: #717171;
+    font-size: 14px;
+    width: 400PX;
+
+}
+
+.calender button {
+    color: aliceblue;
+    background-color: #4CAF4F;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+
+}
+
+.Customers {
+    background-color: #F5F7FA;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+
+#customers-img {
+    width: 326px;
+    height: 326px;
+}
+
+#content {
+    color: #717171;
+    font-size: 16px;
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+.Customers h4 {
+    color: #4CAF4F;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.Customers p {
+    color: #89939e;
+    font-size: 16px;
+    margin: 0px;
+    margin-bottom: 5px;
+}
+
+.Framess {
+    display: flex;
+    gap: 40px;
+    margin-top: 20px;
+}
+
+.Framess button {
+    color: #4CAF4F;
+    background-color: transparent;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 5px 10px;
+
+}
+
+.Community {
+    text-align: center;
+    padding-top: 30PX;
+}
+
+.Community h1 {
+    color: #4D4D4D;
+    font-size: 36px;
+}
+
+.Community p {
+    color: #717171;
+    font-size: 16px;
+    width: 628px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.Frame15 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+}
+
+.Frame16 {
+    text-align: center;
+    background-color: #F5F7FA;
+    padding: 30px;
+
+}
+
+.Frame16 h1 {
+    color: #263238;
+    font-size: 64px;
+    width: 600px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+
+.Frame16 button {
+    color: aliceblue;
+    background-color: #4CAF4F;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+
+}
+
+.Footer {
+    background-color: #263238;
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+
+}
+
+.logoooo span {
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.logoooo img {
+    width: 44px;
+    height: 30px;
+}
+
+.Company-info p {
+    color: #F5F7FA;
+    font-size: 16px;
+    padding-top: 20px;
+}
+
+.social {
+    display: flex;
+    gap: 20px;
+    padding-top: 20px;
+}
+
+.col1 h4,
+.col2 h4,
+.col3 h4 {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.col1 ul,
+.col2 ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.col1 ul a,
+.col2 ul a {
+    text-decoration: none;
+    color: #F5F7FA;
+    font-size: 14px;
+
+}
+
+.col1 ul li,
+.col2 ul li {
+    margin-bottom: 10px;
+
+}
+
+.col3 input {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    width: 220px;
+    padding: 12px;
+    font-size: 14px;
+}
+
+.col3 input::placeholder {
+    color: #e8e9ec;
+}
